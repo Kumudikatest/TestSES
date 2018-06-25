@@ -15,7 +15,7 @@ exports.handler = function (event, context, callback) {
 				}
 			},
 			Subject: {
-				Data: 'Testing SES'
+				Data: 'Testing SES '
 			}
 		},
 		Source: 'kumudika@adroitlogic.com'
